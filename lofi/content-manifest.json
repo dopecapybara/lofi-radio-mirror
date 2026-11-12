@@ -1,0 +1,612 @@
+{
+  "schemaVersion": 1,
+  "refreshIntervalMinutes": 30,
+  "aboutMusic": "Music: OpenLo-Fi · CC0 1.0",
+  "features": {
+    "dj": false,
+    "reactions": true,
+    "onlineCount": true
+  },
+  "dj": {
+    "enabled": false,
+    "quotesEnabled": false,
+    "frequencyTracks": 4,
+    "quotesByLocale": {
+      "en": [],
+      "pl": [],
+      "ru": []
+    }
+  },
+  "reactions": [
+    {
+      "id": "heart",
+      "icon": "heart"
+    },
+    {
+      "id": "fire",
+      "icon": "fire"
+    },
+    {
+      "id": "sleep",
+      "icon": "sleep"
+    },
+    {
+      "id": "rain",
+      "icon": "rain"
+    },
+    {
+      "id": "coffee",
+      "icon": "coffee"
+    }
+  ],
+  "revision": "broadcast-v1",
+  "sources": [
+    {
+      "id": "lofi-radio",
+      "title": "Lofi Radio",
+      "titlesByLocale": {
+        "ru": "Lofi Radio",
+        "pl": "Lofi Radio"
+      },
+      "kind": "radio",
+      "epochUtcMs": 1735689600000,
+      "loop": true,
+      "crossfadeMs": 0,
+      "shows": [],
+      "playlist": [
+        {
+          "id": "breezy-afternoon-terrace",
+          "title": "Breezy Afternoon Terrace",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/breezy-afternoon-terrace.mp3",
+          "durationMs": 89840
+        },
+        {
+          "id": "saxophone-in-the-rain",
+          "title": "Saxophone in the Rain",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/saxophone-in-the-rain.mp3",
+          "durationMs": 98800
+        },
+        {
+          "id": "empty-street-static",
+          "title": "Empty Street Static",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/empty-street-static.mp3",
+          "durationMs": 99720
+        },
+        {
+          "id": "sidewalk-slow-jam",
+          "title": "Sidewalk Slow Jam",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/sidewalk-slow-jam.mp3",
+          "durationMs": 134640
+        },
+        {
+          "id": "first-light-on-the-ridge",
+          "title": "First Light on the Ridge",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/first-light-on-the-ridge.mp3",
+          "durationMs": 157560
+        },
+        {
+          "id": "misty-mountain-sunrise",
+          "title": "Misty Mountain Sunrise",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/misty-mountain-sunrise.mp3",
+          "durationMs": 139960
+        },
+        {
+          "id": "candlelit-at-70-bpm",
+          "title": "Candlelit at 70 BPM",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/candlelit-at-70-bpm.mp3",
+          "durationMs": 121600
+        },
+        {
+          "id": "underwater-dreamscape",
+          "title": "Underwater Dreamscape",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/underwater-dreamscape.mp3",
+          "durationMs": 211480
+        },
+        {
+          "id": "high-rise-haze",
+          "title": "High Rise Haze",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/high-rise-haze.mp3",
+          "durationMs": 128240
+        },
+        {
+          "id": "rooftop-static-dreams",
+          "title": "Rooftop Static Dreams",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/rooftop-static-dreams.mp3",
+          "durationMs": 144960
+        },
+        {
+          "id": "glasshouse-ghosts",
+          "title": "Glasshouse Ghosts",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/glasshouse-ghosts.mp3",
+          "durationMs": 173480
+        },
+        {
+          "id": "last-call-at-table-nine",
+          "title": "Last Call at Table Nine",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/last-call-at-table-nine.mp3",
+          "durationMs": 198040
+        },
+        {
+          "id": "last-call-in-c-minor",
+          "title": "Last Call in C Minor",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/last-call-in-c-minor.mp3",
+          "durationMs": 137760
+        },
+        {
+          "id": "sunset-offbeat",
+          "title": "Sunset Offbeat",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/sunset-offbeat.mp3",
+          "durationMs": 158960
+        },
+        {
+          "id": "porchlight-golden-hour",
+          "title": "Porchlight Golden Hour",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/porchlight-golden-hour.mp3",
+          "durationMs": 129880
+        },
+        {
+          "id": "almost-floating",
+          "title": "Almost Floating",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/almost-floating.mp3",
+          "durationMs": 202240
+        },
+        {
+          "id": "3-am-echoes",
+          "title": "3 AM Echoes",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/3-am-echoes.mp3",
+          "durationMs": 97120
+        },
+        {
+          "id": "linen-and-limoncello",
+          "title": "Linen and Limoncello",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/linen-and-limoncello.mp3",
+          "durationMs": 114920
+        },
+        {
+          "id": "soft-gold-sky",
+          "title": "Soft Gold Sky",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/soft-gold-sky.mp3",
+          "durationMs": 142920
+        },
+        {
+          "id": "blinds-and-headlights",
+          "title": "Blinds and Headlights",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/blinds-and-headlights.mp3",
+          "durationMs": 138920
+        },
+        {
+          "id": "stained-glass-static",
+          "title": "Stained Glass Static",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/stained-glass-static.mp3",
+          "durationMs": 170720
+        },
+        {
+          "id": "moon-through-bamboo",
+          "title": "Moon Through Bamboo",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/moon-through-bamboo.mp3",
+          "durationMs": 171080
+        },
+        {
+          "id": "rain-on-the-boulevard",
+          "title": "Rain on the Boulevard",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/rain-on-the-boulevard.mp3",
+          "durationMs": 89880
+        },
+        {
+          "id": "moonlit-moss",
+          "title": "Moonlit Moss",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/moonlit-moss.mp3",
+          "durationMs": 152640
+        },
+        {
+          "id": "elevator-to-the-moon",
+          "title": "Elevator To the Moon",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/elevator-to-the-moon.mp3",
+          "durationMs": 169120
+        },
+        {
+          "id": "rain-off-the-neon-signs",
+          "title": "Rain Off the Neon Signs",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/rain-off-the-neon-signs.mp3",
+          "durationMs": 118040
+        },
+        {
+          "id": "satellite-lullaby",
+          "title": "Satellite Lullaby",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/satellite-lullaby.mp3",
+          "durationMs": 124520
+        },
+        {
+          "id": "antenna-after-midnight",
+          "title": "Antenna After Midnight",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/antenna-after-midnight.mp3",
+          "durationMs": 166480
+        },
+        {
+          "id": "aurora-on-mute",
+          "title": "Aurora on Mute",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/aurora-on-mute.mp3",
+          "durationMs": 177680
+        },
+        {
+          "id": "last-train-home",
+          "title": "Last Train Home",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/last-train-home.mp3",
+          "durationMs": 184800
+        },
+        {
+          "id": "blue-below-the-surface",
+          "title": "Blue Below the Surface",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/blue-below-the-surface.mp3",
+          "durationMs": 177760
+        },
+        {
+          "id": "stacks-of-quiet-books",
+          "title": "Stacks of Quiet Books",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/stacks-of-quiet-books.mp3",
+          "durationMs": 179600
+        },
+        {
+          "id": "half-empty-coupe",
+          "title": "Half Empty Coupe",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/half-empty-coupe.mp3",
+          "durationMs": 194760
+        },
+        {
+          "id": "drifting-through-fog",
+          "title": "Drifting Through Fog",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/drifting-through-fog.mp3",
+          "durationMs": 184960
+        },
+        {
+          "id": "misty-steam-quiet-dreams",
+          "title": "Misty Steam Quiet Dreams",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/misty-steam-quiet-dreams.mp3",
+          "durationMs": 151960
+        },
+        {
+          "id": "cathedral-hiss",
+          "title": "Cathedral Hiss",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/cathedral-hiss.mp3",
+          "durationMs": 207680
+        },
+        {
+          "id": "midnight-amber-room",
+          "title": "Midnight Amber Room",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/midnight-amber-room.mp3",
+          "durationMs": 145160
+        },
+        {
+          "id": "tide-pools-at-twilight",
+          "title": "Tide Pools at Twilight",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/tide-pools-at-twilight.mp3",
+          "durationMs": 189640
+        },
+        {
+          "id": "teacup-morning-fog",
+          "title": "Teacup Morning Fog",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/teacup-morning-fog.mp3",
+          "durationMs": 138600
+        },
+        {
+          "id": "paper-lantern-rain",
+          "title": "Paper Lantern Rain",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/paper-lantern-rain.mp3",
+          "durationMs": 164800
+        },
+        {
+          "id": "lanterns-in-slow-motion",
+          "title": "Lanterns in Slow Motion",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/lanterns-in-slow-motion.mp3",
+          "durationMs": 149120
+        },
+        {
+          "id": "ghosts-on-the-hillside",
+          "title": "Ghosts on the Hillside",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/ghosts-on-the-hillside.mp3",
+          "durationMs": 199640
+        },
+        {
+          "id": "harbor-before-words",
+          "title": "Harbor Before Words",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/harbor-before-words.mp3",
+          "durationMs": 145960
+        },
+        {
+          "id": "dust-on-the-morning-keys",
+          "title": "Dust on the Morning Keys",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/dust-on-the-morning-keys.mp3",
+          "durationMs": 152760
+        },
+        {
+          "id": "glow-on-the-overpass",
+          "title": "Glow on the Overpass",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/glow-on-the-overpass.mp3",
+          "durationMs": 159920
+        },
+        {
+          "id": "midnight-on-my-mind",
+          "title": "Midnight on My Mind",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/midnight-on-my-mind.mp3",
+          "durationMs": 133720
+        },
+        {
+          "id": "platform-after-rain",
+          "title": "Platform After Rain",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/platform-after-rain.mp3",
+          "durationMs": 173600
+        },
+        {
+          "id": "warm-mile-markers",
+          "title": "Warm Mile Markers",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/warm-mile-markers.mp3",
+          "durationMs": 172360
+        },
+        {
+          "id": "warm-constellations",
+          "title": "Warm Constellations",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/warm-constellations.mp3",
+          "durationMs": 112000
+        },
+        {
+          "id": "polar-afterglow",
+          "title": "Polar Afterglow",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/polar-afterglow.mp3",
+          "durationMs": 299360
+        },
+        {
+          "id": "dust-and-hardcovers",
+          "title": "Dust and Hardcovers",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/dust-and-hardcovers.mp3",
+          "durationMs": 212200
+        },
+        {
+          "id": "window-seat-daydream",
+          "title": "Window Seat Daydream",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/window-seat-daydream.mp3",
+          "durationMs": 139960
+        },
+        {
+          "id": "orbiting-in-silence",
+          "title": "Orbiting in Silence",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/orbiting-in-silence.mp3",
+          "durationMs": 158680
+        },
+        {
+          "id": "bells-before-sunrise",
+          "title": "Bells Before Sunrise",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/bells-before-sunrise.mp3",
+          "durationMs": 139960
+        },
+        {
+          "id": "midnight-window-glow",
+          "title": "Midnight Window Glow",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/midnight-window-glow.mp3",
+          "durationMs": 135200
+        },
+        {
+          "id": "electric-puddles",
+          "title": "Electric Puddles",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/electric-puddles.mp3",
+          "durationMs": 139920
+        },
+        {
+          "id": "deep-space-loop",
+          "title": "Deep Space Loop",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/deep-space-loop.mp3",
+          "durationMs": 159960
+        },
+        {
+          "id": "streetlights-in-the-rearview",
+          "title": "Streetlights in the Rearview",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/streetlights-in-the-rearview.mp3",
+          "durationMs": 134880
+        },
+        {
+          "id": "soft-weightless-hours",
+          "title": "Soft Weightless Hours",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/soft-weightless-hours.mp3",
+          "durationMs": 222720
+        },
+        {
+          "id": "bamboo-shadow-waltz",
+          "title": "Bamboo Shadow Waltz",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/bamboo-shadow-waltz.mp3",
+          "durationMs": 161640
+        },
+        {
+          "id": "headlights-on-the-divider",
+          "title": "Headlights on the Divider",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/headlights-on-the-divider.mp3",
+          "durationMs": 183360
+        },
+        {
+          "id": "sea-glass-evening",
+          "title": "Sea Glass Evening",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/sea-glass-evening.mp3",
+          "durationMs": 224280
+        },
+        {
+          "id": "dusk-between-stoops",
+          "title": "Dusk Between Stoops",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/dusk-between-stoops.mp3",
+          "durationMs": 132240
+        },
+        {
+          "id": "temple-at-dawn",
+          "title": "Temple at Dawn",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/temple-at-dawn.mp3",
+          "durationMs": 114200
+        },
+        {
+          "id": "green-after-midnight",
+          "title": "Green After Midnight",
+          "url": "https://packs.dopecapybara.com/lofi/v1/tracks/green-after-midnight.mp3",
+          "durationMs": 184760
+        }
+      ],
+      "tagsByLocale": {
+        "en": "Calm beats · Study · Sleep",
+        "ru": "Спокойные биты · Учёба · Сон",
+        "pl": "Spokojne bity · Nauka · Sen"
+      },
+      "scene": {
+        "url": "https://packs.dopecapybara.com/lofi/v1/art/night.webp",
+        "bundledFallback": "scenes/night.webp",
+        "ambience": [
+          "rain",
+          "flicker"
+        ]
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "night",
+      "title": "Night broadcast",
+      "titlesByLocale": {
+        "ru": "Ночной эфир",
+        "pl": "Nocna audycja"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/night.webp",
+      "bundledFallback": "scenes/night.webp",
+      "ambience": [
+        "rain",
+        "flicker"
+      ]
+    },
+    {
+      "id": "morning",
+      "title": "Morning café",
+      "titlesByLocale": {
+        "ru": "Утро в кафе",
+        "pl": "Poranek w kawiarni"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/morning-kokarik.webp",
+      "bundledFallback": "scenes/morning.webp",
+      "ambience": [
+        "steam",
+        "dust"
+      ]
+    },
+    {
+      "id": "study",
+      "title": "Study at the library",
+      "titlesByLocale": {
+        "ru": "Учёба в библиотеке",
+        "pl": "Nauka w bibliotece"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/study-kokarik.webp",
+      "bundledFallback": "scenes/study.webp",
+      "ambience": [
+        "dust",
+        "flicker"
+      ]
+    },
+    {
+      "id": "fireplace",
+      "title": "Rain by the fireplace",
+      "titlesByLocale": {
+        "ru": "Дождь у камина",
+        "pl": "Deszcz przy kominku"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/fireplace.webp",
+      "bundledFallback": "scenes/fireplace.webp",
+      "ambience": [
+        "rain",
+        "flicker"
+      ]
+    },
+    {
+      "id": "onsen",
+      "title": "Hot spring",
+      "titlesByLocale": {
+        "ru": "Горячий источник",
+        "pl": "Gorące źródło"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/onsen.webp",
+      "bundledFallback": "scenes/onsen.webp",
+      "ambience": [
+        "steam"
+      ]
+    },
+    {
+      "id": "train",
+      "title": "Night train",
+      "titlesByLocale": {
+        "ru": "Ночной поезд",
+        "pl": "Nocny pociąg"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/train.webp",
+      "bundledFallback": "scenes/train.webp",
+      "ambience": [
+        "rain"
+      ]
+    },
+    {
+      "id": "cabin_snow",
+      "title": "Snowy cabin",
+      "titlesByLocale": {
+        "ru": "Домик в снегу",
+        "pl": "Chatka w śniegu"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/cabin_snow.webp",
+      "bundledFallback": "scenes/cabin_snow.webp",
+      "ambience": [
+        "flicker"
+      ]
+    },
+    {
+      "id": "campfire",
+      "title": "Campfire by the lake",
+      "titlesByLocale": {
+        "ru": "Костёр у озера",
+        "pl": "Ognisko nad jeziorem"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/campfire.webp",
+      "bundledFallback": "scenes/campfire.webp",
+      "ambience": [
+        "flicker"
+      ]
+    },
+    {
+      "id": "rooftop",
+      "title": "Rooftop at dusk",
+      "titlesByLocale": {
+        "ru": "Крыша на закате",
+        "pl": "Dach o zmierzchu"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/rooftop.webp",
+      "bundledFallback": "scenes/rooftop.webp",
+      "ambience": [
+        "dust"
+      ]
+    },
+    {
+      "id": "lighthouse",
+      "title": "Lighthouse in a storm",
+      "titlesByLocale": {
+        "ru": "Маяк в шторм",
+        "pl": "Latarnia w sztormie"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/lighthouse.webp",
+      "bundledFallback": "scenes/lighthouse.webp",
+      "ambience": [
+        "rain"
+      ]
+    },
+    {
+      "id": "autumn",
+      "title": "Autumn park",
+      "titlesByLocale": {
+        "ru": "Осенний парк",
+        "pl": "Jesienny park"
+      },
+      "url": "https://packs.dopecapybara.com/lofi/v1/art/autumn.webp",
+      "bundledFallback": "scenes/autumn.webp",
+      "ambience": [
+        "dust"
+      ]
+    }
+  ]
+}
